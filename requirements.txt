@@ -17,7 +17,7 @@ streamlit-authenticator==0.3.1
 streamlit-folium
 extra-streamlit-components
 st-pages
-
+openpyxl
 # Supabase
 supabase==2.3.4
 storage3==0.7.0
